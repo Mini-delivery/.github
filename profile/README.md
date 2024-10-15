@@ -14,18 +14,21 @@ Raspberry Pi 자동차는 전면부에 장착된 카메라를 통해 실시간�
 <br><br>
 
 ## 프로젝트 구조도
-![구조도](https://github.com/user-attachments/assets/e944ba6e-40e5-4836-92d5-bb315baade40)
-<br>
-![프로젝트 구조도](https://github.com/user-attachments/assets/4d850d60-0022-413d-99ee-39c8017b4ab7)
+<img src="https://github.com/user-attachments/assets/4d850d60-0022-413d-99ee-39c8017b4ab7" width="60%">
 
 <br><br>
+
+## 와이어프레임
+<img src="https://github.com/user-attachments/assets/e944ba6e-40e5-4836-92d5-bb315baade40" width="80%">
+
+<br>
 
 ## 팜플렛
 <img src="https://github.com/user-attachments/assets/393435c5-f00c-4723-a974-9813649be918" width="60%">
 
 <br><br>
 ## API 명세서
-![공경진 api 명세서](https://github.com/user-attachments/assets/ab47ee31-7b99-487e-b349-3699b65a0bf1)
+<img src="https://github.com/user-attachments/assets/ab47ee31-7b99-487e-b349-3699b65a0bf1" width="50%">
 <br><br><br>
 
 ## 주요 적용 기술
